@@ -27,4 +27,4 @@
    - Подключен MusicForMe.dll
    - Для работы с базой данных использовалась библиотека - System.Data.SQLite
 
-Ссылка на видео: https://youtu.be/L1rrr1wPyDU?si=U8cxs9SohU3CTkbl
+Ссылка на видео: https://youtu.be/5ew4O_Pp-KE?si=cPmLBHzle-nasjJV
